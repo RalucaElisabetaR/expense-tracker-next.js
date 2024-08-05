@@ -1,10 +1,4 @@
-import {
-  SignInButton,
-  SignIn,
-  SignedOut,
-  UserButton,
-  SignedIn,
-} from '@clerk/nextjs';
+import { SignInButton, SignedOut, UserButton, SignedIn } from '@clerk/nextjs';
 
 const Header = () => {
   return (
